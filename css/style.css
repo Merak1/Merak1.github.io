@@ -1,0 +1,8 @@
+body{
+
+background-image: url("../background.png");
+}       
+
+.angery > img{
+    height:  120px;
+}
